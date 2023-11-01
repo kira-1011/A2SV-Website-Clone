@@ -23,10 +23,11 @@ const BuildBetterSection = () => {
       </button>
 
       <Image
-        src="/images/homepage/build-better-section-image.png"
+      className="rounded-full"
+        src="/images/homepage/build-better.jpg"
         alt="Connect to our team"
-        height={1400}
-        width={1400}
+        height={700}
+        width={700}
       />
     </section>
   );

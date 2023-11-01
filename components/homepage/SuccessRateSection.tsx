@@ -23,7 +23,7 @@ const SuccessRateSection = () => {
           </p>
         </div>
         {/* success rate cards*/}
-        {data.successRate.map(({year, rate, average}) => <SuccessRateCard year={year} rate={rate} average={average}/>)}
+        {data.successRate.map(({year, rate, average}) => <SuccessRateCard key={`${year}_${rate}_${average}`} year={year} rate={rate} average={average}/>)}
 
       </div>
 
