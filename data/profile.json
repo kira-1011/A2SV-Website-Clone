@@ -1,0 +1,17 @@
+{
+    "headerData":[
+        {
+          "name": "Personal Information",
+          "link": "/profile"
+        },
+        {
+          "name": "My Blogs",
+          "link": "/profile/my-blogs"
+        },
+        {
+          "name": "Account Setting",
+          "link": "/profile/account-setting"
+         
+        }
+      ]
+}
