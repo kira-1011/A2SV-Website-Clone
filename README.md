@@ -1,5 +1,8 @@
 # AFRICA TO SILICON VALLEY(A2SV) Website Clone
 
+## Deployed
+- https://a2sv-website-clone.vercel.app/
+
 ## Tech stack used:
 - Next.js
 - Tailwindcss
